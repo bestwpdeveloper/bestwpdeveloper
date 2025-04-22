@@ -1,16 +1,11 @@
 <div align="center" style="font-family: 'Fira Code', monospace;">
 
-  <!-- Company Logo Placeholder (Optional) -->
-  <!-- <img src="YOUR_LOGO_URL_HERE" alt="Best WP Developer Logo" width="150" /> -->
-
   <h1>🚀 Welcome to <span style="color: #00FFC6;">Best WP Developer</span></h1>
 
   <p style="font-size: 18px;">
     Your One-Stop WordPress Software Partner! <br/>
     🌐 Plugins • Themes • Web Apps • Custom Solutions
   </p>
-
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350" alt="Web Dev" style="margin-top: 20px;" />
 
 </div>
 
