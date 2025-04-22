@@ -37,10 +37,9 @@ Whether you're a small business, startup, agency, or enterprise – we bring you
 | Area | Technologies |
 |------|--------------|
 | **Front-End** | HTML, CSS, JavaScript, React, Tailwind, Bootstrap |
-| **Back-End** | PHP, Node.js, Laravel, Express |
+| **Back-End** | PHP, Node.js Express |
 | **CMS & Builders** | WordPress, Elementor, Gutenberg |
 | **Database** | MySQL, MongoDB, PostgreSQL |
-| **Mobile** | Flutter, Dart, Android |
 | **Dev Tools** | Git, GitHub, VSCode, Figma, Postman |
 | **APIs & AI** | OpenAI, REST API, GraphQL |
 
